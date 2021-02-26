@@ -3,7 +3,7 @@
 ## Package installed
 
 npx create-react-app my-app --template typescript : https://create-react-app.dev/docs/adding-typescript \
-npm install node-sass --save : https://create-react-app.dev/docs/adding-a-sass-stylesheet \
+npm install node-sass --save : https://create-react-app.dev/docs/adding-a-sass-stylesheet
 
 ## Run
 ### `npm start`
